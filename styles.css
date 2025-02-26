@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+nav{
+    background-color: beige;
+}
+table, th, td {
+    border:1px solid black;
+  }
+main{
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    font-size: large;
+}
+
+  
